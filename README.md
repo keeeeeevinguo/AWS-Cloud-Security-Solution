@@ -1,4 +1,4 @@
-# COSC55 Final Project
+# AWS Cloud Security Solution
 
 **Due Date:** August 27th, 11:59 PM  
 **Team Members:** Kevin Guo and Arnav Singh
